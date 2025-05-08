@@ -1,11 +1,10 @@
-Olá! Eu sou o Arthur Rodrigues 🖐️
- Estudante da área de Tecnologia da
- Informação.
+Hello! I'm Arthur Rodrigues 🖐️
+Information Technology student.
 
-Tecnologias que eu uso no meu dia
+Technologies I use in my daily life
 html5 css js ts react nodejs
 
-💻 Desenvolvedor com 2 anos de experiência.
+💻 Developer with 2 years of experience.
 
 
 <a href="mailto:arthurerodrigues01@gmail.com">
