@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá! Eu sou o Arthur Rodrigues 🖐️
+ Estudante da área de Tecnologia da
+ Informação.
 
-<!--
-**arthurrrs/arthurrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias que eu uso no meu dia
+html5 css js ts react nodejs
 
-Here are some ideas to get you started:
+💻 Desenvolvedor com 2 anos de experiência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="mailto:arthurerodrigues01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+
+<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">      <img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70">
+
+
+
+
+
+
+
+
