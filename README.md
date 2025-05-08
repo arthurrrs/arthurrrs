@@ -7,9 +7,7 @@ html5 css js ts react nodejs
 💻 Developer with 2 years of experience.
 
 
-<a href="mailto:arthurerodrigues01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 
 
 
