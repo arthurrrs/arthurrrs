@@ -1,5 +1,7 @@
-Hello! I'm Arthur Rodrigues 🖐️
+👨‍💻 My name is Arthur Rodrigues, I'm 21 years old.
 Information Technology student.
+
+🌍 Languages: Portuguese (native) and English (intermediate).
 
 Technologies I use in my daily life
 html5 css js ts react nodejs
@@ -13,7 +15,7 @@ html5 css js ts react nodejs
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,html,java,nodejs,windows,php,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,html,java,nodejs,windows,php,javascript,laravel,bootstrap,react" />
   </a>
 </p>
 
