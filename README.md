@@ -15,7 +15,7 @@ html5 css js ts react nodejs
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,html,java,nodejs,windows,php,javascript,laravel,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,vscode,html,java,nodejs,windows,php,javascript,laravel,bootstrap,react,css" />
   </a>
 </p>
 
